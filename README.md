@@ -4,8 +4,8 @@
   "idade" : "22 anos",
   "descricao" : "Apaixonado por programação, atualmente estudando PHP e Laravel",
   "estudo " : {
-  "faculdade" : "Faculdade de Tecnologia do Estado de São Paulo - Zona Sul",
-  "curso" : "Análise e Desenvolvimento de Sistemas"
+  	"faculdade" : "Faculdade de Tecnologia do Estado de São Paulo - Zona Sul",
+  	"curso" : "Análise e Desenvolvimento de Sistemas"
   },
   "linkedin" : "https://www.linkedin.com/in/mateusdearaujo/",
   "habilidades" : [
