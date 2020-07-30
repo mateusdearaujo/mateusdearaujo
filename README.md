@@ -1,6 +1,7 @@
+```diff
 ```json
 {
-  "nome" : "Mateus de Araujo Soares",
++  "nome" : "Mateus de Araujo Soares",
   "idade" : "22 anos",
   "descricao" : "Apaixonado por programação, atualmente estudando PHP e Laravel",
   "linkedin" : "https://www.linkedin.com/in/mateusdearaujo/",
@@ -11,4 +12,5 @@
 	"Front-end" : "CSS, Bootstrap 4, Javascript"
   }
 }
+```
 ```
