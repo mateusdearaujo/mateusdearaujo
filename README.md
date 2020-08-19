@@ -2,7 +2,7 @@
 {
   "nome" : "Mateus de Araujo Soares",
   "idade" : "22 anos",
-  "descricao" : "Apaixonado por programação, atualmente estudando PHP e Laravel",
+  "descricao" : "Apaixonado por programação, sempre buscando conhecimento...",
   "estudo " : {
   	"faculdade" : "Faculdade de Tecnologia do Estado de São Paulo - Zona Sul",
   	"curso" : "Análise e Desenvolvimento de Sistemas"
